@@ -32,23 +32,22 @@ Here is the link of cvrip: https://pan.nuaa.edu.cn/share/e880b7da655709421057487
 
       - The paddlepaddle-gpu installed in default is only compatible with Cuda 10.x
         
-      	```
+      	```shell
       	python -m pip install paddlepaddle-gpu==2.2.2 -i https://mirror.baidu.com/pypi/simple
       	```
        
       - For Cuda 11.1, paddlepaddle-gpu shall be installed in the following way
-        
-      	```
-  	pip install paddlepaddle-gpu==2.2.2.post111 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
-      	```
+	       ```
+	       python -m pip install paddlepaddle-gpu==2.2.2.post111 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
+	       ```
+      	
   
 - AI models
 
   - models/yolo_v5_best.pt  
   - cv/yolov3/yolov3_ckpt.pth      
 
-## 🚀 Quick Start
-## 2. How to Run
+## 🚀 2. How to Run
 
 ### 2.1 Install *adb*
 
