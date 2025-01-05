@@ -5,7 +5,7 @@ We introduce cvrip, a visual GUI ripping framework, to make the automated explor
 
 ## 💡 Downloads<a name="tips"></a>
 
-Here is the link of cvrip: https://pan.nuaa.edu.cn/share/e880b7da655709421057487e3a.
+Here is the link of cvrip: https://www.dropbox.com/scl/fi/4iraah1yqkp6tp22cab8e/cvrip.pdf?rlkey=kgr2l5wd0e8lmzx6s9bft3u7t&dl=0
 
 ### 📝 1. Requirements
 - Python：python 3.6-3.8
