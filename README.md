@@ -3,13 +3,6 @@
 
 We introduce cvrip, a visual GUI ripping framework, to make the automated exploration. Cvrip visually analyzes the GUI screen for ripping and does not rely on the underlying GUI frameworks. We introduce many new techniques to enable efficient visual GUI ripping, e.g., a YOLO v5 based model to detect executable widgets, a state recognition acceleration method for fast model updating, and several GUI exploration strategies taking the characteristics of imperfect visual analysis into account.
 
-## 💡 Downloads<a name="tips"></a>
-
-**Here is the link of cvrip:**
-
-[[Download Link](https://www.dropbox.com/scl/fi/4iraah1yqkp6tp22cab8e/cvrip.pdf?rlkey=kgr2l5wd0e8lmzx6s9bft3u7t&dl=0)]  
-
-
 ## 📝 1. Requirements
 - Python：python 3.6-3.8
 
